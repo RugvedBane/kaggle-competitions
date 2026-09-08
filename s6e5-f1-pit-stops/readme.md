@@ -33,9 +33,9 @@ The notebook includes the results of these experiments and the reasoning behind 
 ## Kaggle Result
 
 * **Competition:** Playground Series — Season 6 Episode 5
-* **Final Score:** *Add your score*
-* **Final Rank:** *Add your rank*
-* **Percentile:** *Add if available*
+* **Final Score:** *0.94793*
+* **Final Rank:** *1646/3022*
+* **Percentile:** *55*
 
 ## Key Learnings
 
