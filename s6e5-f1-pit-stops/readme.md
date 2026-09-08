@@ -49,10 +49,5 @@ The notebook includes the results of these experiments and the reasoning behind 
 ```text
 s6e5-f1-pit-stops/
 ├── README.md
-├── f1-pit-stop-analysis.ipynb
-└── experiments.csv
+└── f1-pit-stop-analysis.ipynb
 ```
-
-## Competition
-
-This project was created as part of the Kaggle Playground Series.
