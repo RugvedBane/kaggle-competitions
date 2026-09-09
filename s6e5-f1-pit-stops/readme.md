@@ -49,7 +49,7 @@ Final submission used **XGBoost with early stopping** (up to 5000 trees, lr=0.02
 
 ## Stack
 
-`Python` · `XGBoost` · `LightGBM` · `CatBoost` · `scikit-learn` · `pandas` · `seaborn`
+`Python` · `XGBoost` · `LightGBM` · `scikit-learn` · `pandas` · `seaborn`
 
 ---
 
