@@ -51,10 +51,10 @@ The crossover at **7 hours daily screen time** (where addicted users dominate) d
 | Feature | Notes |
 |---|---|
 | `work_ratio` | strongest ratio feature |
-| `social_ratio` | |
-| `weekend_weekday_ratio` | |
-| `gaming_ratio` | |
-| `apps_open_per_hour` | |
+| `social_ratio` | social media hours as proportion of total screen time |
+| `weekend_weekday_ratio` | weekend vs weekday usage ratio |
+| `gaming_ratio` | gaming hours as proportion of total screen time |
+| `apps_open_per_hour` | app open frequency normalized by screen time |
 
 ### Ordinal Bins -- gradient signal stronger than a single threshold
 `screen_time_bin`, `weekend_screen_bin`, `high_social_bin` -- each split into 4 ordered buckets based on EDA distributions. `screen_time_bin` was a top feature in the final model.
