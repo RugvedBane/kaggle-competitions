@@ -13,6 +13,7 @@ Kaggle profile: [kaggle.com/rugvedbane](https://www.kaggle.com/rugvedbane)
 | [S6E5](./s6e5-f1-pit-stops/) | F1 Pit Stop Prediction | 0.94793 AUC | Top 55% | First competition |
 | [S6E6](./s6e6-stellar-classification/) | Stellar Classification | 0.95548 AUC | Top 71% | XGBoost + early stopping |
 | [S6E8](./s6e8-smartphone-addiction/) | Smartphone Addiction | 0.96602 AUC | Top 44% | Optuna + 13 FE features · Bronze Medal |
+| [S6E9](./S6E9-electric-vehicle-purchases/) | Electric Vehicle Purchases | 0.94590 AUC | Top 37% | LightGBM + feature engineering |
 
 ---
 
